@@ -1,0 +1,21 @@
+                                S-WINDOW (show-window)
+                              --------------------------
+(show-window): 
+ DESCRIPCION: Es un Subprograma ("funciขn") 
+        que pinta en pantalla una ventana con su sombra.
+ 
+ FORMATO: S-WINDOW X1 X2 Y1 Y2 .
+ 
+ COORDENADAS DE LOS PARAMETROS:                      
+                       
+                       
+                       X1,Y1                 X2,Y1
+                         ษออออออออออออออออออออป
+                         บ                    บฑ
+                         บ                    บฑ
+                         บ                    บฑ
+                         ศออออออออออออออออออออผฑ
+                       X1,Y2ฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑฑX2,Y2
+
+                                        
+                                        By: Noodles 2/1/1996
